@@ -14,4 +14,4 @@ As part of the software team at PING, we are in the middle of developing the web
 
 [![Harvard EdX CS50: Intro to AI](http://img.youtube.com/vi/S49Vh_xPNg0/0.jpg)](https://youtu.be/S49Vh_xPNg0)
 
-*This project was collaborated remotedly due to circumstances pertaining to COVID-19. If you would like to know more information about the project, you can find the PING Design Document [here](https://docs.google.com/document/d/1_ZIovUiklJfQzd8eGbFzWppC3jS5onJSRx4VYMZamuA/edit?usp=sharing)*
+* *This project was collaborated remotedly due to circumstances pertaining to COVID-19. If you would like to know more information about the project, you can find the PING Design Document [here](https://docs.google.com/document/d/1_ZIovUiklJfQzd8eGbFzWppC3jS5onJSRx4VYMZamuA/edit?usp=sharing).* *
