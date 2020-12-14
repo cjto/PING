@@ -10,4 +10,8 @@ We are a group of 15 students currently attending the University of California, 
 
 As college students, we have all encountered or heard of public safety incidents that affect our ability to feel comfortable in the environment we reside in today. With this problem to tackle, we have brainstormed a way to prevent or minimize these occurrences as much as possible. This way, we can not only continue to enjoy our lives as college students, but to also aid other individuals in our communities.
 
+As part of the software team at PING, we are in the middle of developing the website and mobile application which can be seen below:
+
 [![Harvard EdX CS50: Intro to AI](http://img.youtube.com/vi/S49Vh_xPNg0/0.jpg)](https://youtu.be/S49Vh_xPNg0)
+
+*This project was collaborated remotedly due to circumstances pertaining to COVID-19. If you would like to know more information about the project, you can find the PING Design Document [here](https://docs.google.com/document/d/1_ZIovUiklJfQzd8eGbFzWppC3jS5onJSRx4VYMZamuA/edit?usp=sharing)*
